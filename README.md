@@ -10,10 +10,6 @@ This project is a Streamlit web application for detecting fraudulent credit card
 - **Visualization:** Provides scatter plots to visualize anomalies within PCA-transformed components.
 - **Interactive Interface:** Built with Streamlit, allowing easy interaction and visualization of results.
 
-## License
-
-This project is licensed under the GNU General Public License (GPL). You are free to use, modify, and distribute this software under the terms of the GPL.
-
 ## How to Use
 
 1. **Upload Data:** Click on "Choose a file" to upload your transaction data.
